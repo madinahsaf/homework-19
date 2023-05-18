@@ -8,3 +8,8 @@ $(document).ready(function() {
     }, 1000 );
   });
 });
+
+*/
+document
+  .querySelectorAll("a")
+  .forEach((el) => el.addEventListener("click", (ev) => ev.preventDefault()));
