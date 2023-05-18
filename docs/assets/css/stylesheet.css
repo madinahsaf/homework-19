@@ -170,6 +170,7 @@ padding: 2rem 0;
   width: 100px;
   height: 35px;
   border-radius: 10px;
+  margin-top: 10px;
 }
 
 .footer-form {
@@ -216,7 +217,7 @@ html {
 }
 
 
-}
+
 
 .soc {
   display: block;
@@ -278,4 +279,5 @@ html {
 .icon-20:hover {
   background: #2626d9;
 }
+
 
